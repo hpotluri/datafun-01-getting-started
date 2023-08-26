@@ -1,0 +1,18 @@
+2023-08-26 00:35:16,150.acquainted.INFO ==================================================
+2023-08-26 00:35:16,152.acquainted.INFO Today is 2023-08-26 at 12:35 AM
+2023-08-26 00:35:16,172.acquainted.INFO Running on: nt Windows 10
+2023-08-26 00:35:16,173.acquainted.INFO Python version:  3.11.4
+2023-08-26 00:35:16,173.acquainted.INFO Python path: C:\Users\nnarne\AppData\Local\anaconda3
+2023-08-26 00:35:16,174.acquainted.INFO Working dir: C:\Users\nnarne\Documents\datafun-01-getting-started
+2023-08-26 00:35:16,174.acquainted.INFO ==================================================
+2023-08-26 00:35:16,174.acquainted.INFO Name: P N  
+2023-08-26 00:35:16,186.acquainted.INFO State: MO
+2023-08-26 00:35:16,186.acquainted.INFO Country: USA
+2023-08-26 00:35:16,187.acquainted.INFO Pet count: 4
+2023-08-26 00:35:16,187.acquainted.INFO Double the pet count: 8
+2023-08-26 00:35:16,187.acquainted.INFO Skill count: 28
+2023-08-26 00:35:16,187.acquainted.INFO Temperature: 31.5
+2023-08-26 00:35:16,187.acquainted.INFO Pet weight: 42.5
+2023-08-26 00:35:16,188.acquainted.INFO Has dog: True
+2023-08-26 00:35:16,188.acquainted.INFO Likes analytics: True
+2023-08-26 00:35:16,188.acquainted.INFO Likes Python: True
